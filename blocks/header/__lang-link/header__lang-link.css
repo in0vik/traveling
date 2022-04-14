@@ -1,0 +1,13 @@
+@import url(./_active/header__lang-link_active.css);
+
+.header__lang-link {
+  margin-right: 18px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.header__lang-link:nth-child(2n) {
+  margin: 0;
+}
