@@ -4,8 +4,14 @@
 @import url(./__title/lead__title.css);
 
 .lead {
-  box-sizing: border-box;
-  width: 80%;
   margin: 0 auto;
-  padding: 56px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 984px) {
+  .lead {
+    padding: 0;
+  }
 }

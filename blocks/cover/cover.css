@@ -5,14 +5,11 @@
 @import url(./__link/cover__link.css);
 
 .cover {
-  box-sizing: border-box;
-  width: calc(100% - 48px * 2);
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 740px;
-  margin: 0 48px;
-  overflow: hidden;
+  padding: 0 48px;
+}
+
+@media screen and (max-width: 1140px) {
+  .cover {
+    padding: 0;
+  }
 }

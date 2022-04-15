@@ -1,6 +1,26 @@
 .places {
-  box-sizing: border-box;
-  width: 80%;
-  padding: 92px 0 0 0;
-  margin: 0 148px;
+  display: grid;
+  grid-row-gap: 80px;
+}
+
+@media screen and (max-width: 1140px) {
+  .places {
+    grid-row-gap: 80px;
+
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places {
+    grid-row-gap: 73px;
+
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .places {
+    grid-row-gap: 50px;
+    padding: 0;
+    
+  }
 }
