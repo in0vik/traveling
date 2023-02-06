@@ -7,6 +7,3 @@ The site is created using HTML/CSS capabilities, adaptive layout is implemented 
  * [Link to Deployment](https://in0vik.github.io/russian-travel/)
 
 ![Screenshot-2022-04-15-at-03-51-15.png](https://i.postimg.cc/QC8XRKqF/Screenshot-2022-04-15-at-03-51-15.png)
-
-
-Translated with www.DeepL.com/Translator (free version)
