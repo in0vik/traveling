@@ -1,9 +1,12 @@
-# Проект: Путешествие по России
+# Project: Journey through Russia
 
-Проект о путешествии по России.
+A project about a journey across Russia.
 
-Сайт создан используя возможности HTML/CSS, реализована адаптивная верстка для разрешений до 1280px. Используются медиа запросы и "резиновые элементы".
+The site is created using HTML/CSS capabilities, adaptive layout is implemented for resolutions up to 1280px. Media queries and "rubber elements" are used.
 
- * [Ссылка на деплой](https://in0vik.github.io/russian-travel/)
+ * [Link to Deployment](https://in0vik.github.io/russian-travel/)
 
 ![Screenshot-2022-04-15-at-03-51-15.png](https://i.postimg.cc/QC8XRKqF/Screenshot-2022-04-15-at-03-51-15.png)
+
+
+Translated with www.DeepL.com/Translator (free version)
