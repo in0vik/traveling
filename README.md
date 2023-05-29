@@ -9,4 +9,4 @@ The site is created using HTML/CSS capabilities, adaptive layout is implemented 
 
  * 🔗 [Link to Deployment](https://in0vik.github.io/traveling/)
 
-[![brandbird-6.png](https://i.postimg.cc/0ygCQnm0/brandbird-6.png)](https://postimg.cc/w7VN4hw1)
+[![brandbird-7.png](https://i.postimg.cc/GhDN3q9b/brandbird-7.png)](https://postimg.cc/D825BQqN)
